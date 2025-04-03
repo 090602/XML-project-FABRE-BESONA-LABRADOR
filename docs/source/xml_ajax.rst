@@ -1,3 +1,3 @@
 This contain the example of xml
 ######################
-basic xml
+basic xml ajax
