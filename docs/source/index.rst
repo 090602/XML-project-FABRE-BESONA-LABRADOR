@@ -28,4 +28,3 @@ Contents
    XML_Schema/index
    XML_Data_Types/index
    Web_Services/index
-   XML_EXAMPLES/index
