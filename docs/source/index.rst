@@ -16,9 +16,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   xml_tutorials
    xml_ajax
+   xml_tutorials
    xml_dom
    xpath
    xslt
