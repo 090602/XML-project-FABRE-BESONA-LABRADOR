@@ -16,15 +16,15 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 10
+   :maxdepth: 2
 
-   -xml_ajax
-   -xml_tutorials
-   -xml_dom
-   -xpath
-   -xslt
-   -xquery
-   -xmldtd
-   -xsd_schema
-   -xsd_datatypes
-   -web_services
+   xml_ajax
+   xml_tutorials
+   xml_dom
+   xpath
+   xslt
+   xquery
+   xmldtd
+   xsd_schema
+   xsd_datatypes
+   web_services
