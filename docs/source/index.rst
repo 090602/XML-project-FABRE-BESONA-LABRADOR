@@ -16,7 +16,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: TABLE OF CONTENTS
 
    XML_Tutorial
